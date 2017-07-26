@@ -1,7 +1,7 @@
 const ml = require('ml-regression');
 const csv = require('csvtojson');
 const SLR = ml.SLR; // 简单线性回归
-const csvFilePath = 'advertising.csv'; // 数据
+const csvFilePath = './advertising.csv'; // 数据
 let csvData = [], // 已解析的数据
     X = [], // 输入
     y = []; // 输出
