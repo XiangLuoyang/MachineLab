@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "brain": "^0.7.0",
     "csvtojson": "^1.1.7",
     "ml-regression": "^4.4.2"
   }
