@@ -2,7 +2,11 @@
   "dependencies": {
     "brain": "^0.7.0",
     "csvtojson": "^1.1.7",
-    "ml-regression": "^4.4.2"
+    "eslint": "^3.9.1",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^6.0.0",
+    "ml-regression": "^4.4.2",
+    "twitter-text": "^1.14.7"
   },
   "devDependencies": {
     "eslint": "3.9.1",
